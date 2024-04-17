@@ -8,7 +8,7 @@ def my_car():
 
 
 def test_car_accelerate0(my_car):
-    """ Exercise 0b: Using the just created fixture test the accelerate method. Hint: accelerate, then check. """
+    """ Exercise 0b: Using t3he just created fixture test the accelerate method. Hint: accelerate, then check. """
     my_car.accelerate()
     assert my_car.speed == 55
 
